@@ -1,0 +1,14 @@
+C:\Users\Taha\source\repos\banka\banka\bin\Debug\net8.0\banka.exe
+C:\Users\Taha\source\repos\banka\banka\bin\Debug\net8.0\banka.deps.json
+C:\Users\Taha\source\repos\banka\banka\bin\Debug\net8.0\banka.runtimeconfig.json
+C:\Users\Taha\source\repos\banka\banka\bin\Debug\net8.0\banka.dll
+C:\Users\Taha\source\repos\banka\banka\bin\Debug\net8.0\banka.pdb
+C:\Users\Taha\source\repos\banka\banka\obj\Debug\net8.0\banka.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Taha\source\repos\banka\banka\obj\Debug\net8.0\banka.AssemblyInfoInputs.cache
+C:\Users\Taha\source\repos\banka\banka\obj\Debug\net8.0\banka.AssemblyInfo.cs
+C:\Users\Taha\source\repos\banka\banka\obj\Debug\net8.0\banka.csproj.CoreCompileInputs.cache
+C:\Users\Taha\source\repos\banka\banka\obj\Debug\net8.0\banka.dll
+C:\Users\Taha\source\repos\banka\banka\obj\Debug\net8.0\refint\banka.dll
+C:\Users\Taha\source\repos\banka\banka\obj\Debug\net8.0\banka.pdb
+C:\Users\Taha\source\repos\banka\banka\obj\Debug\net8.0\banka.genruntimeconfig.cache
+C:\Users\Taha\source\repos\banka\banka\obj\Debug\net8.0\ref\banka.dll
